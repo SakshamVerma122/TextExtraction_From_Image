@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract v5.4.0.20240606' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "./data/input_images\PMC3654277_00006.jpg"; bbox 0 0 601 792; ppageno 0; scan_res 70 70'>
+   <div class='ocr_photo' id='block_1_1' title="bbox 56 70 180 196"></div>
+   <div class='ocr_photo' id='block_1_2' title="bbox 188 74 189 272"></div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 51 400 290 410">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 51 400 290 410">
+     <span class='ocr_line' id='line_1_1' title="bbox 51 400 290 410; baseline 0 -3; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_1' title='bbox 51 402 72 407; x_wconf 47'>Tissue</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 79 400 103 410; x_wconf 57'>Figure</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 108 401 113 407; x_wconf 20'>3)</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 124 400 155 409; x_wconf 20'>sag</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 165 400 215 407; x_wconf 28'>contovesal</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 221 403 223 407; x_wconf 68'>with</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 238 400 249 407; x_wconf 45'>the</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 252 400 290 409; x_wconf 30'>published</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_photo' id='block_1_4' title="bbox 172 346 180 352"></div>
+   <div class='ocr_photo' id='block_1_5' title="bbox 140 357 144 361"></div>
+   <div class='ocr_photo' id='block_1_6' title="bbox 170 358 171 361"></div>
+   <div class='ocr_photo' id='block_1_7' title="bbox 303 74 311 272"></div>
+   <div class='ocr_photo' id='block_1_8' title="bbox 432 74 546 272"></div>
+   <div class='ocr_photo' id='block_1_9' title="bbox 432 378 433 385"></div>
+   <div class='ocr_photo' id='block_1_10' title="bbox 440 381 441 384"></div>
+   <div class='ocr_carea' id='block_1_11' title="bbox 309 678 531 708">
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 309 678 531 708">
+     <span class='ocr_line' id='line_1_2' title="bbox 309 678 383 686; baseline 0 0; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_9' title='bbox 309 679 317 686; x_wconf 77'>5.</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 321 678 383 686; x_wconf 77'>Conclusions</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 311 699 531 708; baseline 0 -2; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_11' title='bbox 311 699 332 706; x_wconf 96'>Taken</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 336 699 364 706; x_wconf 50'>together,</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 373 699 384 706; x_wconf 55'>the</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 388 702 403 706; x_wconf 2'>ress</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 407 699 437 706; x_wconf 37'>ofthe</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 442 702 466 708; x_wconf 62'>present</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 472 688 491 716; x_wconf 59'>study</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 496 699 515 706; x_wconf 59'>show</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 519 699 531 706; x_wconf 86'>tat</span>
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

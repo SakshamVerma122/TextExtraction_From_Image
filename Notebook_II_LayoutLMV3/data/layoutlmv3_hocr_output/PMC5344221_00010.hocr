@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract v5.4.0.20240606' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "./data/input_images\PMC5344221_00010.jpg"; bbox 0 0 596 842; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 50 48 545 58">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 50 48 545 58">
+     <span class='ocr_line' id='line_1_1' title="bbox 50 48 545 58; baseline 0 -2; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_1' title='bbox 50 48 113 56; x_wconf 84'>Biomedicines</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 118 48 144 58; x_wconf 93'>2014,</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 148 48 153 56; x_wconf 93'>2</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 528 48 545 56; x_wconf 70'>239</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 51 82 299 93">
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 51 82 299 93">
+     <span class='ocr_line' id='line_1_2' title="bbox 51 82 299 93; baseline 0 -3; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_5' title='bbox 51 82 64 90; x_wconf 82'>7.2.</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 71 82 137 90; x_wconf 96'>Combinations</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 141 82 161 90; x_wconf 96'>with</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 165 82 190 90; x_wconf 96'>Other</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 197 82 248 93; x_wconf 18'>Transgenic</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 253 82 299 93; x_wconf 89'>Cytokines</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 50 111 547 255">
+    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 50 111 547 241">
+     <span class='ocr_line' id='line_1_3' title="bbox 64 111 546 122; baseline 0 -3; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_11' title='bbox 64 111 93 119; x_wconf 84'>Could</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 98 111 123 119; x_wconf 95'>other</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 128 111 175 119; x_wconf 16'>combina</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 253 113 261 119; x_wconf 67'>je</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 266 111 312 122; x_wconf 90'>eytokines</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 317 111 356 121; x_wconf 91'>(besides</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 361 111 405 119; x_wconf 85'>GM-CSF</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 411 111 430 122; x_wconf 96'>plus</span>
+      <span class='ocrx_word' id='word_1_19' title='bbox 436 111 456 119; x_wconf 58'>IL-4</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 462 113 471 119; x_wconf 94'>or</span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 477 111 521 119; x_wconf 94'>GM-CSF</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 526 111 546 122; x_wconf 77'>plus</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 50 128 545 139; baseline 0 -3; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_23' title='bbox 50 128 82 139; x_wconf 19'>IFN-))</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 88 128 98 136; x_wconf 96'>be</span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 104 128 145 136; x_wconf 95'>effective</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 151 130 159 136; x_wconf 92'>in</span>
+      <span class='ocrx_word' id='word_1_27' title='bbox 166 128 184 136; x_wconf 82'>iDC</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 190 128 269 139; x_wconf 82'>reprogramming?</span>
+      <span class='ocrx_word' id='word_1_29' title='bbox 275 128 288 136; x_wconf 94'>As</span>
+      <span class='ocrx_word' id='word_1_30' title='bbox 293 128 339 136; x_wconf 92'>discussed</span>
+      <span class='ocrx_word' id='word_1_31' title='bbox 344 128 377 137; x_wconf 95'>before,</span>
+      <span class='ocrx_word' id='word_1_32' title='bbox 383 128 427 136; x_wconf 96'>GM-CSF</span>
+      <span class='ocrx_word' id='word_1_33' title='bbox 433 130 440 136; x_wconf 94'>is</span>
+      <span class='ocrx_word' id='word_1_34' title='bbox 446 128 497 136; x_wconf 95'>considered</span>
+      <span class='ocrx_word' id='word_1_35' title='bbox 503 130 507 136; x_wconf 89'>a</span>
+      <span class='ocrx_word' id='word_1_36' title='bbox 513 128 545 136; x_wconf 57'>critical</span>
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 50 145 545 156; baseline 0 -3; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_37' title='bbox 50 145 77 153; x_wconf 55'>{actor</span>
+      <span class='ocrx_word' id='word_1_38' title='bbox 82 145 95 153; x_wconf 93'>for</span>
+      <span class='ocrx_word' id='word_1_39' title='bbox 99 145 114 153; x_wconf 93'>DC</span>
+      <span class='ocrx_word' id='word_1_40' title='bbox 118 145 165 156; x_wconf 0'>develop</span>
+      <span class='ocrx_word' id='word_1_41' title='bbox 441 145 460 156; x_wconf 68'>[22].</span>
+      <span class='ocrx_word' id='word_1_42' title='bbox 467 145 493 156; x_wconf 96'>Upon</span>
+      <span class='ocrx_word' id='word_1_43' title='bbox 497 145 533 156; x_wconf 96'>binding</span>
+      <span class='ocrx_word' id='word_1_44' title='bbox 537 146 545 153; x_wconf 92'>to</span>
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 50 162 543 173; baseline 0 -3; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_45' title='bbox 50 163 61 170; x_wconf 85'>its</span>
+      <span class='ocrx_word' id='word_1_46' title='bbox 65 163 101 173; x_wconf 94'>cognate</span>
+      <span class='ocrx_word' id='word_1_47' title='bbox 106 164 147 173; x_wconf 94'>receptor,</span>
+      <span class='ocrx_word' id='word_1_48' title='bbox 151 162 196 170; x_wconf 96'>GM-CSF</span>
+      <span class='ocrx_word' id='word_1_49' title='bbox 200 163 241 170; x_wconf 96'>activates</span>
+      <span class='ocrx_word' id='word_1_50' title='bbox 246 162 278 170; x_wconf 96'>several</span>
+      <span class='ocrx_word' id='word_1_51' title='bbox 283 162 340 170; x_wconf 67'>intracellular</span>
+      <span class='ocrx_word' id='word_1_52' title='bbox 344 162 388 173; x_wconf 67'>signaling</span>
+      <span class='ocrx_word' id='word_1_53' title='bbox 392 162 432 170; x_wconf 96'>modules,</span>
+      <span class='ocrx_word' id='word_1_54' title='bbox 439 162 484 173; x_wconf 93'>including</span>
+      <span class='ocrx_word' id='word_1_55' title='bbox 488 162 543 170; x_wconf 76'>JAK/STAT,</span>
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 50 179 545 190; baseline 0 -3; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_56' title='bbox 50 179 87 189; x_wconf 92'>MAPK,</span>
+      <span class='ocrx_word' id='word_1_57' title='bbox 91 179 115 187; x_wconf 41'>PIBK</span>
+      <span class='ocrx_word' id='word_1_58' title='bbox 119 179 136 187; x_wconf 96'>and</span>
+      <span class='ocrx_word' id='word_1_59' title='bbox 140 179 185 187; x_wconf 65'>canonical</span>
+      <span class='ocrx_word' id='word_1_60' title='bbox 189 179 221 187; x_wconf 37'>NF-KB,</span>
+      <span class='ocrx_word' id='word_1_61' title='bbox 228 179 276 190; x_wconf 87'>Cytokines</span>
+      <span class='ocrx_word' id='word_1_62' title='bbox 280 179 298 187; x_wconf 82'>that</span>
+      <span class='ocrx_word' id='word_1_63' title='bbox 301 181 315 187; x_wconf 82'>are</span>
+      <span class='ocrx_word' id='word_1_64' title='bbox 319 179 393 190; x_wconf 70'>complementary</span>
+      <span class='ocrx_word' id='word_1_65' title='bbox 397 180 405 187; x_wconf 96'>to</span>
+      <span class='ocrx_word' id='word_1_66' title='bbox 409 179 453 187; x_wconf 95'>GM-CSF</span>
+      <span class='ocrx_word' id='word_1_67' title='bbox 458 181 466 187; x_wconf 96'>in</span>
+      <span class='ocrx_word' id='word_1_68' title='bbox 470 179 484 187; x_wconf 96'>the</span>
+      <span class='ocrx_word' id='word_1_69' title='bbox 488 179 545 187; x_wconf 94'>downstream</span>
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 50 196 546 207; baseline 0 -3; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_70' title='bbox 50 196 79 204; x_wconf 94'>STAT</span>
+      <span class='ocrx_word' id='word_1_71' title='bbox 83 198 92 204; x_wconf 79'>of</span>
+      <span class='ocrx_word' id='word_1_72' title='bbox 97 196 119 204; x_wconf 96'>ERK</span>
+      <span class='ocrx_word' id='word_1_73' title='bbox 123 196 167 207; x_wconf 95'>pathways</span>
+      <span class='ocrx_word' id='word_1_74' title='bbox 171 198 185 204; x_wconf 84'>are</span>
+      <span class='ocrx_word' id='word_1_75' title='bbox 189 196 224 207; x_wconf 91'>capable</span>
+      <span class='ocrx_word' id='word_1_76' title='bbox 228 197 237 204; x_wconf 96'>to</span>
+      <span class='ocrx_word' id='word_1_77' title='bbox 241 196 272 204; x_wconf 85'>further</span>
+      <span class='ocrx_word' id='word_1_78' title='bbox 276 196 318 204; x_wconf 84'>stimulate</span>
+      <span class='ocrx_word' id='word_1_79' title='bbox 323 196 389 204; x_wconf 35'>differentiation</span>
+      <span class='ocrx_word' id='word_1_80' title='bbox 393 196 421 206; x_wconf 74'>(IL-4)</span>
+      <span class='ocrx_word' id='word_1_81' title='bbox 425 196 442 204; x_wconf 76'>and</span>
+      <span class='ocrx_word' id='word_1_82' title='bbox 446 196 546 204; x_wconf 36'>activation/maturation</span>
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 50 213 547 224; baseline 0 -3; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_83' title='bbox 50 213 59 221; x_wconf 93'>of</span>
+      <span class='ocrx_word' id='word_1_84' title='bbox 66 213 86 221; x_wconf 91'>DCs</span>
+      <span class='ocrx_word' id='word_1_85' title='bbox 93 213 128 224; x_wconf 29'>(IFN-y)</span>
+      <span class='ocrx_word' id='word_1_86' title='bbox 135 213 156 224; x_wconf 66'>[25],</span>
+      <span class='ocrx_word' id='word_1_87' title='bbox 163 213 179 221; x_wconf 96'>and</span>
+      <span class='ocrx_word' id='word_1_88' title='bbox 186 213 211 221; x_wconf 95'>result</span>
+      <span class='ocrx_word' id='word_1_89' title='bbox 218 214 236 221; x_wconf 96'>into</span>
+      <span class='ocrx_word' id='word_1_90' title='bbox 242 213 282 221; x_wconf 81'>different</span>
+      <span class='ocrx_word' id='word_1_91' title='bbox 289 214 334 224; x_wconf 81'>migratory</span>
+      <span class='ocrx_word' id='word_1_92' title='bbox 341 215 387 224; x_wconf 71'>properties.</span>
+      <span class='ocrx_word' id='word_1_93' title='bbox 397 213 472 221; x_wconf 82'>IDLV-mediated</span>
+      <span class='ocrx_word' id='word_1_94' title='bbox 479 215 529 224; x_wconf 96'>expression</span>
+      <span class='ocrx_word' id='word_1_95' title='bbox 536 213 547 221; x_wconf 96'>of</span>
+     </span>
+     <span class='ocr_line' id='line_1_10' title="bbox 50 230 546 241; baseline 0 -3; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_96' title='bbox 50 230 94 238; x_wconf 85'>GM-CSF</span>
+      <span class='ocrx_word' id='word_1_97' title='bbox 98 230 117 241; x_wconf 93'>plus</span>
+      <span class='ocrx_word' id='word_1_98' title='bbox 122 230 149 240; x_wconf 91'>IFN-y</span>
+      <span class='ocrx_word' id='word_1_99' title='bbox 153 219 163 247; x_wconf 96'>in</span>
+      <span class='ocrx_word' id='word_1_100' title='bbox 166 230 192 238; x_wconf 96'>human</span>
+      <span class='ocrx_word' id='word_1_101' title='bbox 202 231 254 241; x_wconf 89'>monocytes</span>
+      <span class='ocrx_word' id='word_1_102' title='bbox 258 230 295 238; x_wconf 94'>resulted</span>
+      <span class='ocrx_word' id='word_1_103' title='bbox 300 232 308 238; x_wconf 96'>in</span>
+      <span class='ocrx_word' id='word_1_104' title='bbox 312 232 335 238; x_wconf 96'>more</span>
+      <span class='ocrx_word' id='word_1_105' title='bbox 340 230 382 238; x_wconf 95'>activated</span>
+      <span class='ocrx_word' id='word_1_106' title='bbox 387 230 411 238; x_wconf 74'>iDCs</span>
+      <span class='ocrx_word' id='word_1_107' title='bbox 415 230 432 238; x_wconf 96'>that</span>
+      <span class='ocrx_word' id='word_1_108' title='bbox 436 230 451 238; x_wconf 89'>did</span>
+      <span class='ocrx_word' id='word_1_109' title='bbox 455 232 469 238; x_wconf 96'>not</span>
+      <span class='ocrx_word' id='word_1_110' title='bbox 474 232 507 241; x_wconf 48'>require</span>
+      <span class='ocrx_word' id='word_1_111' title='bbox 511 233 519 238; x_wconf 60'>in</span>
+      <span class='ocrx_word' id='word_1_112' title='bbox 524 232 546 238; x_wconf 60'>vitro</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_4' lang='eng' title="bbox 518 247 545 255">
+     <span class='ocr_line' id='line_1_11' title="bbox 518 247 545 255; baseline 0 0; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_113' title='bbox 518 249 523 255; x_wconf 43'>ve</span>
+      <span class='ocrx_word' id='word_1_114' title='bbox 532 247 545 255; x_wconf 50'>the</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_photo' id='block_1_4' title="bbox 181 107 250 126"></div>
+   <div class='ocr_photo' id='block_1_5' title="bbox 451 130 470 136"></div>
+   <div class='ocr_photo' id='block_1_6' title="bbox 174 146 437 154"></div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 177 145 417 156">
+    <p class='ocr_par' id='par_1_5' lang='eng' title="bbox 177 145 417 156">
+     <span class='ocr_line' id='line_1_12' title="bbox 177 145 417 156; baseline 0 -3; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_115' title='bbox 173 134 178 162; x_wconf 53'>1</span>
+      <span class='ocrx_word' id='word_1_116' title='bbox 177 145 210 153; x_wconf 61'>under</span>
+      <span class='ocrx_word' id='word_1_117' title='bbox 214 145 235 153; x_wconf 93'>both</span>
+      <span class='ocrx_word' id='word_1_118' title='bbox 239 145 294 156; x_wconf 96'>steady-state</span>
+      <span class='ocrx_word' id='word_1_119' title='bbox 307 145 315 153; x_wconf 96'>and</span>
+      <span class='ocrx_word' id='word_1_120' title='bbox 320 145 383 156; x_wconf 93'>inflammatory</span>
+      <span class='ocrx_word' id='word_1_121' title='bbox 388 145 417 153; x_wconf 56'>condi</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_8' title="bbox 50 247 165 255">
+    <p class='ocr_par' id='par_1_6' lang='eng' title="bbox 50 247 165 255">
+     <span class='ocr_line' id='line_1_13' title="bbox 50 247 165 255; baseline 0 0; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_122' title='bbox 50 248 88 255; x_wconf 30'>treatment</span>
+      <span class='ocrx_word' id='word_1_123' title='bbox 103 247 124 255; x_wconf 77'>with</span>
+      <span class='ocrx_word' id='word_1_124' title='bbox 133 247 165 255; x_wconf 42'>additios</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_photo' id='block_1_9' title="bbox 92 248 517 255"></div>
+   <div class='ocr_carea' id='block_1_10' title="bbox 50 247 545 326">
+    <p class='ocr_par' id='par_1_7' lang='eng' title="bbox 50 247 545 326">
+     <span class='ocr_line' id='line_1_14' title="bbox 178 247 506 258; baseline 0 -3; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_125' title='bbox 178 247 240 255; x_wconf 54'>maturation</span>
+      <span class='ocrx_word' id='word_1_126' title='bbox 249 247 281 255; x_wconf 84'>factors</span>
+      <span class='ocrx_word' id='word_1_127' title='bbox 290 247 303 255; x_wconf 84'>for</span>
+      <span class='ocrx_word' id='word_1_128' title='bbox 311 247 347 258; x_wconf 94'>optimal</span>
+      <span class='ocrx_word' id='word_1_129' title='bbox 356 248 391 258; x_wconf 94'>antigen</span>
+      <span class='ocrx_word' id='word_1_130' title='bbox 399 248 457 258; x_wconf 90'>presentation</span>
+      <span class='ocrx_word' id='word_1_131' title='bbox 466 247 485 258; x_wconf 72'>(43).</span>
+      <span class='ocrx_word' id='word_1_132' title='bbox 497 247 506 255; x_wconf 85'>Si</span>
+     </span>
+     <span class='ocr_line' id='line_1_15' title="bbox 50 264 539 275; baseline 0 -3; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_133' title='bbox 50 264 116 272; x_wconf 13'>‘multcistronic</span>
+      <span class='ocrx_word' id='word_1_134' title='bbox 121 264 136 272; x_wconf 95'>LV</span>
+      <span class='ocrx_word' id='word_1_135' title='bbox 141 264 172 275; x_wconf 95'>design</span>
+      <span class='ocrx_word' id='word_1_136' title='bbox 177 266 184 272; x_wconf 94'>is</span>
+      <span class='ocrx_word' id='word_1_137' title='bbox 189 264 254 272; x_wconf 68'>combinatorial,</span>
+      <span class='ocrx_word' id='word_1_138' title='bbox 263 266 276 272; x_wconf 96'>we</span>
+      <span class='ocrx_word' id='word_1_139' title='bbox 281 266 297 272; x_wconf 87'>can</span>
+      <span class='ocrx_word' id='word_1_140' title='bbox 302 264 336 272; x_wconf 95'>include</span>
+      <span class='ocrx_word' id='word_1_141' title='bbox 341 264 388 272; x_wconf 90'>additional</span>
+      <span class='ocrx_word' id='word_1_142' title='bbox 394 264 439 275; x_wconf 88'>cytokines</span>
+      <span class='ocrx_word' id='word_1_143' title='bbox 444 264 471 272; x_wconf 96'>that</span>
+      <span class='ocrx_word' id='word_1_144' title='bbox 468 253 483 281; x_wconf 73'>can</span>
+      <span class='ocrx_word' id='word_1_145' title='bbox 487 264 539 275; x_wconf 93'>complemen</span>
+     </span>
+     <span class='ocr_line' id='line_1_16' title="bbox 50 281 545 292; baseline 0 -3; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_146' title='bbox 50 281 94 289; x_wconf 59'>GM-CSF</span>
+      <span class='ocrx_word' id='word_1_147' title='bbox 100 281 117 289; x_wconf 93'>and</span>
+      <span class='ocrx_word' id='word_1_148' title='bbox 123 281 151 292; x_wconf 81'>IFN-y</span>
+      <span class='ocrx_word' id='word_1_149' title='bbox 157 281 178 289; x_wconf 85'>such</span>
+      <span class='ocrx_word' id='word_1_150' title='bbox 185 283 194 289; x_wconf 79'>as</span>
+      <span class='ocrx_word' id='word_1_151' title='bbox 201 281 226 289; x_wconf 75'>IL-15</span>
+      <span class='ocrx_word' id='word_1_152' title='bbox 233 281 250 290; x_wconf 83'>(for</span>
+      <span class='ocrx_word' id='word_1_153' title='bbox 256 281 273 289; x_wconf 92'>NK</span>
+      <span class='ocrx_word' id='word_1_154' title='bbox 279 281 296 289; x_wconf 94'>cell</span>
+      <span class='ocrx_word' id='word_1_155' title='bbox 302 281 362 291; x_wconf 93'>stimulation),</span>
+      <span class='ocrx_word' id='word_1_156' title='bbox 369 281 395 289; x_wconf 80'>IL-12</span>
+      <span class='ocrx_word' id='word_1_157' title='bbox 401 281 419 291; x_wconf 81'>(for</span>
+      <span class='ocrx_word' id='word_1_158' title='bbox 425 281 460 292; x_wconf 95'>optimal</span>
+      <span class='ocrx_word' id='word_1_159' title='bbox 467 281 484 289; x_wconf 11'>Th</span>
+      <span class='ocrx_word' id='word_1_160' title='bbox 492 282 545 291; x_wconf 94'>activation),</span>
+     </span>
+     <span class='ocr_line' id='line_1_17' title="bbox 50 298 545 309; baseline 0 -3; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_161' title='bbox 50 298 67 306; x_wconf 40'>and</span>
+      <span class='ocrx_word' id='word_1_162' title='bbox 72 300 82 306; x_wconf 93'>so</span>
+      <span class='ocrx_word' id='word_1_163' title='bbox 87 300 99 306; x_wconf 91'>on.</span>
+      <span class='ocrx_word' id='word_1_164' title='bbox 107 298 121 306; x_wconf 91'>On</span>
+      <span class='ocrx_word' id='word_1_165' title='bbox 126 298 140 306; x_wconf 96'>the</span>
+      <span class='ocrx_word' id='word_1_166' title='bbox 146 298 170 306; x_wconf 95'>other</span>
+      <span class='ocrx_word' id='word_1_167' title='bbox 175 298 198 306; x_wconf 93'>hand,</span>
+      <span class='ocrx_word' id='word_1_168' title='bbox 206 298 251 309; x_wconf 91'>eytokines</span>
+      <span class='ocrx_word' id='word_1_169' title='bbox 257 298 274 306; x_wconf 94'>that</span>
+      <span class='ocrx_word' id='word_1_170' title='bbox 279 300 293 306; x_wconf 96'>are</span>
+      <span class='ocrx_word' id='word_1_171' title='bbox 299 298 347 306; x_wconf 95'>associated</span>
+      <span class='ocrx_word' id='word_1_172' title='bbox 353 298 373 306; x_wconf 96'>with</span>
+      <span class='ocrx_word' id='word_1_173' title='bbox 379 298 422 306; x_wconf 82'>tolerance</span>
+      <span class='ocrx_word' id='word_1_174' title='bbox 427 298 452 308; x_wconf 88'>(such</span>
+      <span class='ocrx_word' id='word_1_175' title='bbox 458 300 467 306; x_wconf 93'>as</span>
+      <span class='ocrx_word' id='word_1_176' title='bbox 473 298 502 307; x_wconf 82'>IL-10,</span>
+      <span class='ocrx_word' id='word_1_177' title='bbox 508 298 545 308; x_wconf 80'>TGF-B)</span>
+     </span>
+     <span class='ocr_line' id='line_1_18' title="bbox 50 315 345 326; baseline 0 -3; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_178' title='bbox 50 315 76 323; x_wconf 87'>could</span>
+      <span class='ocrx_word' id='word_1_179' title='bbox 80 315 90 323; x_wconf 96'>be</span>
+      <span class='ocrx_word' id='word_1_180' title='bbox 94 315 113 323; x_wconf 96'>also</span>
+      <span class='ocrx_word' id='word_1_181' title='bbox 116 315 158 326; x_wconf 95'>explored</span>
+      <span class='ocrx_word' id='word_1_182' title='bbox 161 316 170 323; x_wconf 96'>to</span>
+      <span class='ocrx_word' id='word_1_183' title='bbox 174 317 215 323; x_wconf 84'>maintain</span>
+      <span class='ocrx_word' id='word_1_184' title='bbox 219 315 243 323; x_wconf 82'>iDCs</span>
+      <span class='ocrx_word' id='word_1_185' title='bbox 247 317 255 323; x_wconf 96'>in</span>
+      <span class='ocrx_word' id='word_1_186' title='bbox 259 317 263 323; x_wconf 55'>a</span>
+      <span class='ocrx_word' id='word_1_187' title='bbox 267 315 320 326; x_wconf 55'>tolerogenic</span>
+      <span class='ocrx_word' id='word_1_188' title='bbox 324 316 345 323; x_wconf 64'>state,</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_photo' id='block_1_11' title="bbox 471 266 476 272"></div>
+   <div class='ocr_carea' id='block_1_12' title="bbox 51 344 169 355">
+    <p class='ocr_par' id='par_1_8' lang='eng' title="bbox 51 344 169 355">
+     <span class='ocr_line' id='line_1_19' title="bbox 51 344 169 355; baseline 0 -3; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_189' title='bbox 51 344 64 352; x_wconf 71'>7.3,</span>
+      <span class='ocrx_word' id='word_1_190' title='bbox 71 344 102 355; x_wconf 96'>Origin</span>
+      <span class='ocrx_word' id='word_1_191' title='bbox 106 344 115 354; x_wconf 96'>of</span>
+      <span class='ocrx_word' id='word_1_192' title='bbox 120 344 169 352; x_wconf 85'>Monocytes</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_photo' id='block_1_13' title="bbox 425 375 429 381"></div>
+   <div class='ocr_carea' id='block_1_14' title="bbox 65 373 546 417">
+    <p class='ocr_par' id='par_1_9' lang='eng' title="bbox 65 373 546 417">
+     <span class='ocr_line' id='line_1_20' title="bbox 65 373 546 384; baseline 0 -3; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_193' title='bbox 65 373 117 384; x_wconf 89'>Monocytes</span>
+      <span class='ocrx_word' id='word_1_194' title='bbox 121 373 152 381; x_wconf 96'>should</span>
+      <span class='ocrx_word' id='word_1_195' title='bbox 156 373 167 381; x_wconf 96'>be</span>
+      <span class='ocrx_word' id='word_1_196' title='bbox 171 373 223 384; x_wconf 96'>autologous</span>
+      <span class='ocrx_word' id='word_1_197' title='bbox 227 374 236 381; x_wconf 96'>to</span>
+      <span class='ocrx_word' id='word_1_198' title='bbox 240 373 254 381; x_wconf 96'>the</span>
+      <span class='ocrx_word' id='word_1_199' title='bbox 258 375 289 381; x_wconf 87'>cancer</span>
+      <span class='ocrx_word' id='word_1_200' title='bbox 293 374 325 384; x_wconf 63'>patient</span>
+      <span class='ocrx_word' id='word_1_201' title='bbox 329 375 338 381; x_wconf 63'>or</span>
+      <span class='ocrx_word' id='word_1_202' title='bbox 342 373 391 384; x_wconf 84'>allogeneic</span>
+      <span class='ocrx_word' id='word_1_203' title='bbox 395 373 435 381; x_wconf 95'>obtained</span>
+      <span class='ocrx_word' id='word_1_204' title='bbox 440 373 462 381; x_wconf 93'>from</span>
+      <span class='ocrx_word' id='word_1_205' title='bbox 466 373 480 381; x_wconf 96'>the</span>
+      <span class='ocrx_word' id='word_1_206' title='bbox 484 375 508 381; x_wconf 96'>same</span>
+      <span class='ocrx_word' id='word_1_207' title='bbox 512 373 546 381; x_wconf 96'>G-CSF</span>
+     </span>
+     <span class='ocr_line' id='line_1_21' title="bbox 182 389 546 401; baseline 0 -3; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_208' title='bbox 182 390 214 398; x_wconf 54'>CD34&quot;</span>
+      <span class='ocrx_word' id='word_1_209' title='bbox 218 392 240 398; x_wconf 96'>stem</span>
+      <span class='ocrx_word' id='word_1_210' title='bbox 244 390 265 398; x_wconf 96'>cells</span>
+      <span class='ocrx_word' id='word_1_211' title='bbox 269 390 282 398; x_wconf 92'>for</span>
+      <span class='ocrx_word' id='word_1_212' title='bbox 287 390 316 398; x_wconf 90'>HSCT.</span>
+      <span class='ocrx_word' id='word_1_213' title='bbox 323 390 347 401; x_wconf 96'>They</span>
+      <span class='ocrx_word' id='word_1_214' title='bbox 351 390 382 398; x_wconf 93'>should</span>
+      <span class='ocrx_word' id='word_1_215' title='bbox 386 390 396 398; x_wconf 88'>be</span>
+      <span class='ocrx_word' id='word_1_216' title='bbox 400 390 429 401; x_wconf 88'>highly</span>
+      <span class='ocrx_word' id='word_1_217' title='bbox 434 390 471 401; x_wconf 86'>purified</span>
+      <span class='ocrx_word' id='word_1_218' title='bbox 475 392 484 398; x_wconf 96'>as</span>
+      <span class='ocrx_word' id='word_1_219' title='bbox 488 389 520 398; x_wconf 71'>CD14&quot;</span>
+      <span class='ocrx_word' id='word_1_220' title='bbox 524 390 546 398; x_wconf 73'>cells</span>
+     </span>
+     <span class='ocr_line' id='line_1_22' title="bbox 474 407 545 417; baseline 0 -2; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_221' title='bbox 470 397 478 425; x_wconf 35'>is</span>
+      <span class='ocrx_word' id='word_1_222' title='bbox 482 407 510 417; x_wconf 43'>(HCV,</span>
+      <span class='ocrx_word' id='word_1_223' title='bbox 518 407 545 416; x_wconf 84'>HBV,</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_15' title="bbox 50 390 166 398">
+    <p class='ocr_par' id='par_1_10' lang='eng' title="bbox 50 390 166 398">
+     <span class='ocr_line' id='line_1_23' title="bbox 50 390 166 398; baseline 0 0; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_224' title='bbox 50 390 97 398; x_wconf 32'>‘mobilized</span>
+      <span class='ocrx_word' id='word_1_225' title='bbox 101 390 133 398; x_wconf 93'>donors</span>
+      <span class='ocrx_word' id='word_1_226' title='bbox 137 390 166 398; x_wconf 80'>donati</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_photo' id='block_1_16' title="bbox 173 392 178 401"></div>
+   <div class='ocr_carea' id='block_1_17' title="bbox 50 407 454 418">
+    <p class='ocr_par' id='par_1_11' lang='eng' title="bbox 50 407 454 418">
+     <span class='ocr_line' id='line_1_24' title="bbox 50 407 454 418; baseline -0.002 -2; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_227' title='bbox 50 407 86 417; x_wconf 49'>(95%).</span>
+      <span class='ocrx_word' id='word_1_228' title='bbox 94 407 128 415; x_wconf 92'>Donors</span>
+      <span class='ocrx_word' id='word_1_229' title='bbox 133 407 146 415; x_wconf 93'>for</span>
+      <span class='ocrx_word' id='word_1_230' title='bbox 153 407 177 415; x_wconf 92'>HSCT</span>
+      <span class='ocrx_word' id='word_1_231' title='bbox 183 397 196 425; x_wconf 96'>are</span>
+      <span class='ocrx_word' id='word_1_232' title='bbox 202 407 234 418; x_wconf 59'>strictly</span>
+      <span class='ocrx_word' id='word_1_233' title='bbox 239 407 285 415; x_wconf 93'>examined</span>
+      <span class='ocrx_word' id='word_1_234' title='bbox 290 407 302 415; x_wconf 92'>for</span>
+      <span class='ocrx_word' id='word_1_235' title='bbox 307 407 401 418; x_wconf 46'>HLA-compatibility,</span>
+      <span class='ocrx_word' id='word_1_236' title='bbox 406 407 427 415; x_wconf 93'>viral</span>
+      <span class='ocrx_word' id='word_1_237' title='bbox 432 407 454 415; x_wconf 83'>infect</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_photo' id='block_1_18' title="bbox 454 408 473 415"></div>
+   <div class='ocr_carea' id='block_1_19' title="bbox 50 424 448 464">
+    <p class='ocr_par' id='par_1_12' lang='eng' title="bbox 50 424 448 464">
+     <span class='ocr_line' id='line_1_25' title="bbox 50 424 448 435; baseline 0 -3; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_238' title='bbox 50 424 74 434; x_wconf 80'>HIV)</span>
+      <span class='ocrx_word' id='word_1_239' title='bbox 78 424 93 432; x_wconf 96'>and</span>
+      <span class='ocrx_word' id='word_1_240' title='bbox 99 424 131 432; x_wconf 75'>overall</span>
+      <span class='ocrx_word' id='word_1_241' title='bbox 135 424 164 432; x_wconf 93'>health</span>
+      <span class='ocrx_word' id='word_1_242' title='bbox 168 425 197 434; x_wconf 73'>status,</span>
+      <span class='ocrx_word' id='word_1_243' title='bbox 201 424 236 435; x_wconf 96'>making</span>
+      <span class='ocrx_word' id='word_1_244' title='bbox 240 424 263 432; x_wconf 92'>them</span>
+      <span class='ocrx_word' id='word_1_245' title='bbox 267 426 271 432; x_wconf 92'>a</span>
+      <span class='ocrx_word' id='word_1_246' title='bbox 275 424 293 432; x_wconf 94'>safe</span>
+      <span class='ocrx_word' id='word_1_247' title='bbox 297 426 328 432; x_wconf 89'>source</span>
+      <span class='ocrx_word' id='word_1_248' title='bbox 332 424 341 432; x_wconf 65'>of</span>
+      <span class='ocrx_word' id='word_1_249' title='bbox 345 424 393 435; x_wconf 42'>allogeneic</span>
+      <span class='ocrx_word' id='word_1_250' title='bbox 397 426 448 435; x_wconf 90'>monocytes.</span>
+     </span>
+     <span class='ocr_line' id='line_1_26' title="bbox 51 453 197 464; baseline 0 -3; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_251' title='bbox 51 453 64 461; x_wconf 64'>7.4.</span>
+      <span class='ocrx_word' id='word_1_252' title='bbox 71 453 91 461; x_wconf 96'>Cell</span>
+      <span class='ocrx_word' id='word_1_253' title='bbox 94 453 158 464; x_wconf 96'>Manipulation</span>
+      <span class='ocrx_word' id='word_1_254' title='bbox 162 456 172 461; x_wconf 96'>ex</span>
+      <span class='ocrx_word' id='word_1_255' title='bbox 177 453 197 461; x_wconf 89'>Vivo</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_20' title="bbox 50 482 547 561">
+    <p class='ocr_par' id='par_1_13' lang='eng' title="bbox 50 482 546 510">
+     <span class='ocr_line' id='line_1_27' title="bbox 64 482 546 493; baseline 0 -3; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_256' title='bbox 64 482 89 490; x_wconf 16'>Afler</span>
+      <span class='ocrx_word' id='word_1_257' title='bbox 93 484 143 493; x_wconf 56'>monoeytes</span>
+      <span class='ocrx_word' id='word_1_258' title='bbox 147 484 161 490; x_wconf 87'>are</span>
+      <span class='ocrx_word' id='word_1_259' title='bbox 165 482 201 490; x_wconf 96'>isolated</span>
+      <span class='ocrx_word' id='word_1_260' title='bbox 205 482 216 493; x_wconf 93'>by</span>
+      <span class='ocrx_word' id='word_1_261' title='bbox 220 482 271 491; x_wconf 85'>CliniMacs,</span>
+      <span class='ocrx_word' id='word_1_262' title='bbox 275 482 289 490; x_wconf 83'>the</span>
+      <span class='ocrx_word' id='word_1_263' title='bbox 293 482 308 490; x_wconf 83'>full</span>
+      <span class='ocrx_word' id='word_1_264' title='bbox 313 482 338 490; x_wconf 94'>GMP</span>
+      <span class='ocrx_word' id='word_1_265' title='bbox 342 482 392 493; x_wconf 96'>production</span>
+      <span class='ocrx_word' id='word_1_266' title='bbox 396 484 433 493; x_wconf 89'>requires</span>
+      <span class='ocrx_word' id='word_1_267' title='bbox 437 482 457 493; x_wconf 89'>only</span>
+      <span class='ocrx_word' id='word_1_268' title='bbox 462 482 508 490; x_wconf 95'>additional</span>
+      <span class='ocrx_word' id='word_1_269' title='bbox 512 482 523 490; x_wconf 93'>28</span>
+      <span class='ocrx_word' id='word_1_270' title='bbox 527 482 533 490; x_wconf 73'>h</span>
+      <span class='ocrx_word' id='word_1_271' title='bbox 537 482 546 490; x_wconf 83'>of</span>
+     </span>
+     <span class='ocr_line' id='line_1_28' title="bbox 50 499 539 510; baseline 0 -3; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_272' title='bbox 50 502 60 507; x_wconf 75'>ex</span>
+      <span class='ocrx_word' id='word_1_273' title='bbox 65 502 84 507; x_wconf 92'>vivo</span>
+      <span class='ocrx_word' id='word_1_274' title='bbox 89 499 144 510; x_wconf 70'>manipulation.</span>
+      <span class='ocrx_word' id='word_1_275' title='bbox 158 499 194 507; x_wconf 72'>Isolated</span>
+      <span class='ocrx_word' id='word_1_276' title='bbox 199 499 231 507; x_wconf 18'>CD14*</span>
+      <span class='ocrx_word' id='word_1_277' title='bbox 237 500 287 510; x_wconf 79'>monocytes</span>
+      <span class='ocrx_word' id='word_1_278' title='bbox 292 501 305 507; x_wconf 96'>are</span>
+      <span class='ocrx_word' id='word_1_279' title='bbox 311 499 375 510; x_wconf 93'>pre-incubated</span>
+      <span class='ocrx_word' id='word_1_280' title='bbox 380 501 388 507; x_wconf 94'>in</span>
+      <span class='ocrx_word' id='word_1_281' title='bbox 393 501 398 507; x_wconf 94'>a</span>
+      <span class='ocrx_word' id='word_1_282' title='bbox 402 499 419 510; x_wconf 90'>bag</span>
+      <span class='ocrx_word' id='word_1_283' title='bbox 424 500 456 510; x_wconf 96'>system</span>
+      <span class='ocrx_word' id='word_1_284' title='bbox 461 499 481 507; x_wconf 93'>with</span>
+      <span class='ocrx_word' id='word_1_285' title='bbox 486 499 539 507; x_wconf 91'>recombinan</span>
+     </span>
+    </p>
+
+    <p class='ocr_par' id='par_1_14' lang='eng' title="bbox 50 516 547 561">
+     <span class='ocr_line' id='line_1_29' title="bbox 50 516 546 527; baseline 0 -3; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_286' title='bbox 50 516 143 524; x_wconf 14'>huGM-CSF/hulL-4</span>
+      <span class='ocrx_word' id='word_1_287' title='bbox 147 516 160 524; x_wconf 66'>for</span>
+      <span class='ocrx_word' id='word_1_288' title='bbox 164 516 169 524; x_wconf 83'>8</span>
+      <span class='ocrx_word' id='word_1_289' title='bbox 173 516 181 526; x_wconf 72'>h,</span>
+      <span class='ocrx_word' id='word_1_290' title='bbox 185 516 236 524; x_wconf 71'>transduced</span>
+      <span class='ocrx_word' id='word_1_291' title='bbox 240 516 260 524; x_wconf 96'>with</span>
+      <span class='ocrx_word' id='word_1_292' title='bbox 265 516 279 524; x_wconf 94'>LV</span>
+      <span class='ocrx_word' id='word_1_293' title='bbox 283 518 300 524; x_wconf 75'>ata</span>
+      <span class='ocrx_word' id='word_1_294' title='bbox 304 516 319 524; x_wconf 94'>low</span>
+      <span class='ocrx_word' id='word_1_295' title='bbox 325 516 380 527; x_wconf 75'>multiplicity</span>
+      <span class='ocrx_word' id='word_1_296' title='bbox 383 516 393 524; x_wconf 96'>of</span>
+      <span class='ocrx_word' id='word_1_297' title='bbox 396 505 438 533; x_wconf 78'>infection</span>
+      <span class='ocrx_word' id='word_1_298' title='bbox 445 516 468 526; x_wconf 79'>(MOL</span>
+      <span class='ocrx_word' id='word_1_299' title='bbox 473 505 478 533; x_wconf 79'>=</span>
+      <span class='ocrx_word' id='word_1_300' title='bbox 483 516 492 526; x_wconf 60'>5)</span>
+      <span class='ocrx_word' id='word_1_301' title='bbox 496 516 509 524; x_wconf 60'>for</span>
+      <span class='ocrx_word' id='word_1_302' title='bbox 514 516 524 524; x_wconf 89'>16</span>
+      <span class='ocrx_word' id='word_1_303' title='bbox 528 516 533 524; x_wconf 40'>h</span>
+      <span class='ocrx_word' id='word_1_304' title='bbox 537 518 546 524; x_wconf 83'>in</span>
+     </span>
+     <span class='ocr_line' id='line_1_30' title="bbox 50 533 83 544; baseline 0 -3; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_305' title='bbox 50 533 64 541; x_wconf 91'>the</span>
+      <span class='ocrx_word' id='word_1_306' title='bbox 68 535 83 544; x_wconf 81'>pre</span>
+     </span>
+     <span class='ocr_line' id='line_1_31' title="bbox 50 550 547 561; baseline 0 -3; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_307' title='bbox 50 550 108 558; x_wconf 85'>transduction</span>
+      <span class='ocrx_word' id='word_1_308' title='bbox 113 550 122 558; x_wconf 96'>of</span>
+      <span class='ocrx_word' id='word_1_309' title='bbox 126 552 177 561; x_wconf 95'>monocytes</span>
+      <span class='ocrx_word' id='word_1_310' title='bbox 181 550 198 558; x_wconf 96'>and</span>
+      <span class='ocrx_word' id='word_1_311' title='bbox 202 550 216 558; x_wconf 94'>the</span>
+      <span class='ocrx_word' id='word_1_312' title='bbox 220 550 255 558; x_wconf 48'>clinieal</span>
+      <span class='ocrx_word' id='word_1_313' title='bbox 259 550 285 561; x_wconf 96'>grade</span>
+      <span class='ocrx_word' id='word_1_314' title='bbox 289 539 298 567; x_wconf 96'>of</span>
+      <span class='ocrx_word' id='word_1_315' title='bbox 302 539 313 567; x_wconf 61'>all</span>
+      <span class='ocrx_word' id='word_1_316' title='bbox 318 550 334 558; x_wconf 61'>cell</span>
+      <span class='ocrx_word' id='word_1_317' title='bbox 339 550 375 561; x_wconf 74'>product</span>
+      <span class='ocrx_word' id='word_1_318' title='bbox 379 552 436 561; x_wconf 92'>components</span>
+      <span class='ocrx_word' id='word_1_319' title='bbox 440 550 476 561; x_wconf 96'>provide</span>
+      <span class='ocrx_word' id='word_1_320' title='bbox 480 550 501 561; x_wconf 96'>high</span>
+      <span class='ocrx_word' id='word_1_321' title='bbox 505 550 532 558; x_wconf 84'>levels</span>
+      <span class='ocrx_word' id='word_1_322' title='bbox 536 550 547 558; x_wconf 95'>of</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_photo' id='block_1_21' title="bbox 148 500 546 507"></div>
+   <div class='ocr_photo' id='block_1_22' title="bbox 84 535 110 541"></div>
+   <div class='ocr_carea' id='block_1_23' title="bbox 114 533 546 544">
+    <p class='ocr_par' id='par_1_15' lang='eng' title="bbox 114 533 546 544">
+     <span class='ocr_line' id='line_1_32' title="bbox 114 533 546 544; baseline 0 -3; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_323' title='bbox 114 533 124 541; x_wconf 62'>‘of</span>
+      <span class='ocrx_word' id='word_1_324' title='bbox 128 534 176 544; x_wconf 95'>protamine</span>
+      <span class='ocrx_word' id='word_1_325' title='bbox 181 533 220 544; x_wconf 96'>sulphate</span>
+      <span class='ocrx_word' id='word_1_326' title='bbox 224 535 234 541; x_wconf 96'>as</span>
+      <span class='ocrx_word' id='word_1_327' title='bbox 238 533 282 544; x_wconf 96'>adjuvant,</span>
+      <span class='ocrx_word' id='word_1_328' title='bbox 286 533 322 541; x_wconf 96'>washed</span>
+      <span class='ocrx_word' id='word_1_329' title='bbox 326 533 383 544; x_wconf 96'>extensively,</span>
+      <span class='ocrx_word' id='word_1_330' title='bbox 388 533 404 541; x_wconf 93'>and</span>
+      <span class='ocrx_word' id='word_1_331' title='bbox 409 533 480 544; x_wconf 81'>eryo-preserved.</span>
+      <span class='ocrx_word' id='word_1_332' title='bbox 488 533 506 541; x_wconf 95'>The</span>
+      <span class='ocrx_word' id='word_1_333' title='bbox 510 536 519 541; x_wconf 92'>in</span>
+      <span class='ocrx_word' id='word_1_334' title='bbox 524 535 546 541; x_wconf 92'>vitro</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_24' title="bbox 50 567 546 646">
+    <p class='ocr_par' id='par_1_16' lang='eng' title="bbox 50 567 546 646">
+     <span class='ocr_line' id='line_1_33' title="bbox 50 567 545 578; baseline 0 -3; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_335' title='bbox 50 567 78 578; x_wconf 96'>safety</span>
+      <span class='ocrx_word' id='word_1_336' title='bbox 82 567 98 575; x_wconf 96'>and</span>
+      <span class='ocrx_word' id='word_1_337' title='bbox 102 567 154 578; x_wconf 76'>conformity.</span>
+      <span class='ocrx_word' id='word_1_338' title='bbox 162 567 187 575; x_wconf 96'>Since</span>
+      <span class='ocrx_word' id='word_1_339' title='bbox 191 567 205 575; x_wconf 96'>the</span>
+      <span class='ocrx_word' id='word_1_340' title='bbox 209 567 267 575; x_wconf 61'>transduction</span>
+      <span class='ocrx_word' id='word_1_341' title='bbox 271 567 306 575; x_wconf 96'>method</span>
+      <span class='ocrx_word' id='word_1_342' title='bbox 311 569 317 575; x_wconf 96'>is</span>
+      <span class='ocrx_word' id='word_1_343' title='bbox 321 567 347 576; x_wconf 68'>short,</span>
+      <span class='ocrx_word' id='word_1_344' title='bbox 351 567 365 575; x_wconf 71'>the</span>
+      <span class='ocrx_word' id='word_1_345' title='bbox 369 569 420 578; x_wconf 95'>emergence</span>
+      <span class='ocrx_word' id='word_1_346' title='bbox 424 567 433 575; x_wconf 93'>of</span>
+      <span class='ocrx_word' id='word_1_347' title='bbox 440 557 486 585; x_wconf 0'>malignanU/</span>
+      <span class='ocrx_word' id='word_1_348' title='bbox 489 567 545 575; x_wconf 0'>transformed</span>
+     </span>
+     <span class='ocr_line' id='line_1_34' title="bbox 50 584 539 595; baseline 0 -3; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_349' title='bbox 50 584 71 592; x_wconf 57'>cells</span>
+      <span class='ocrx_word' id='word_1_350' title='bbox 76 586 85 592; x_wconf 56'>of</span>
+      <span class='ocrx_word' id='word_1_351' title='bbox 89 584 140 595; x_wconf 91'>replication</span>
+      <span class='ocrx_word' id='word_1_352' title='bbox 144 585 193 595; x_wconf 64'>competent</span>
+      <span class='ocrx_word' id='word_1_353' title='bbox 198 584 242 592; x_wconf 64'>lentivirus</span>
+      <span class='ocrx_word' id='word_1_354' title='bbox 247 586 254 592; x_wconf 96'>is</span>
+      <span class='ocrx_word' id='word_1_355' title='bbox 258 584 296 595; x_wconf 96'>unlikely</span>
+      <span class='ocrx_word' id='word_1_356' title='bbox 301 585 310 592; x_wconf 94'>to</span>
+      <span class='ocrx_word' id='word_1_357' title='bbox 314 586 340 592; x_wconf 73'>occur.</span>
+      <span class='ocrx_word' id='word_1_358' title='bbox 347 584 361 595; x_wconf 93'>Up</span>
+      <span class='ocrx_word' id='word_1_359' title='bbox 365 585 374 592; x_wconf 79'>to</span>
+      <span class='ocrx_word' id='word_1_360' title='bbox 378 584 395 592; x_wconf 79'>this</span>
+      <span class='ocrx_word' id='word_1_361' title='bbox 399 584 418 592; x_wconf 96'>date,</span>
+      <span class='ocrx_word' id='word_1_362' title='bbox 429 586 437 592; x_wconf 96'>no</span>
+      <span class='ocrx_word' id='word_1_363' title='bbox 442 584 492 595; x_wconf 93'>replication</span>
+      <span class='ocrx_word' id='word_1_364' title='bbox 496 585 539 595; x_wconf 88'>competen</span>
+     </span>
+     <span class='ocr_line' id='line_1_35' title="bbox 50 601 546 612; baseline 0 -3; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_365' title='bbox 50 601 95 609; x_wconf 50'>lentivirus</span>
+      <span class='ocrx_word' id='word_1_366' title='bbox 99 601 129 611; x_wconf 93'>(RCL)</span>
+      <span class='ocrx_word' id='word_1_367' title='bbox 133 601 149 609; x_wconf 96'>has</span>
+      <span class='ocrx_word' id='word_1_368' title='bbox 153 601 175 609; x_wconf 95'>been</span>
+      <span class='ocrx_word' id='word_1_369' title='bbox 179 601 218 609; x_wconf 75'>detected</span>
+      <span class='ocrx_word' id='word_1_370' title='bbox 221 591 231 619; x_wconf 64'>in</span>
+      <span class='ocrx_word' id='word_1_371' title='bbox 235 601 257 609; x_wconf 64'>cells</span>
+      <span class='ocrx_word' id='word_1_372' title='bbox 261 601 312 609; x_wconf 92'>transduced</span>
+      <span class='ocrx_word' id='word_1_373' title='bbox 316 604 326 609; x_wconf 96'>ex</span>
+      <span class='ocrx_word' id='word_1_374' title='bbox 331 604 349 609; x_wconf 93'>vivo</span>
+      <span class='ocrx_word' id='word_1_375' title='bbox 353 601 374 609; x_wconf 96'>with</span>
+      <span class='ocrx_word' id='word_1_376' title='bbox 379 601 393 609; x_wconf 91'>LV</span>
+      <span class='ocrx_word' id='word_1_377' title='bbox 398 601 424 609; x_wconf 91'>under</span>
+      <span class='ocrx_word' id='word_1_378' title='bbox 428 601 454 609; x_wconf 96'>GMP</span>
+      <span class='ocrx_word' id='word_1_379' title='bbox 458 601 477 612; x_wconf 96'>[46]</span>
+      <span class='ocrx_word' id='word_1_380' title='bbox 481 601 498 609; x_wconf 96'>and</span>
+      <span class='ocrx_word' id='word_1_381' title='bbox 502 601 525 609; x_wconf 88'>there</span>
+      <span class='ocrx_word' id='word_1_382' title='bbox 530 603 537 609; x_wconf 57'>is</span>
+      <span class='ocrx_word' id='word_1_383' title='bbox 541 603 546 609; x_wconf 57'>a</span>
+     </span>
+     <span class='ocr_line' id='line_1_36' title="bbox 50 618 545 629; baseline 0 -3; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_384' title='bbox 50 620 83 626; x_wconf 0'>current</span>
+      <span class='ocrx_word' id='word_1_385' title='bbox 87 618 136 626; x_wconf 65'>discussion</span>
+      <span class='ocrx_word' id='word_1_386' title='bbox 140 619 149 626; x_wconf 79'>at</span>
+      <span class='ocrx_word' id='word_1_387' title='bbox 152 618 166 626; x_wconf 79'>the</span>
+      <span class='ocrx_word' id='word_1_388' title='bbox 171 618 193 626; x_wconf 94'>FDA</span>
+      <span class='ocrx_word' id='word_1_389' title='bbox 198 618 243 629; x_wconf 94'>regarding</span>
+      <span class='ocrx_word' id='word_1_390' title='bbox 248 618 270 626; x_wconf 96'>RCL</span>
+      <span class='ocrx_word' id='word_1_391' title='bbox 274 619 305 629; x_wconf 96'>testing</span>
+      <span class='ocrx_word' id='word_1_392' title='bbox 309 618 349 626; x_wconf 96'>methods</span>
+      <span class='ocrx_word' id='word_1_393' title='bbox 353 618 366 626; x_wconf 95'>for</span>
+      <span class='ocrx_word' id='word_1_394' title='bbox 370 618 391 626; x_wconf 77'>viral</span>
+      <span class='ocrx_word' id='word_1_395' title='bbox 395 618 431 626; x_wconf 89'>batches.</span>
+      <span class='ocrx_word' id='word_1_396' title='bbox 438 618 488 629; x_wconf 91'>According</span>
+      <span class='ocrx_word' id='word_1_397' title='bbox 492 620 500 626; x_wconf 96'>to</span>
+      <span class='ocrx_word' id='word_1_398' title='bbox 504 618 518 626; x_wconf 96'>the</span>
+      <span class='ocrx_word' id='word_1_399' title='bbox 523 618 545 626; x_wconf 92'>FDA</span>
+     </span>
+     <span class='ocr_line' id='line_1_37' title="bbox 50 635 482 646; baseline 0 -3; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_400' title='bbox 50 635 67 643; x_wconf 56'>and</span>
+      <span class='ocrx_word' id='word_1_401' title='bbox 71 635 99 644; x_wconf 96'>EMA,</span>
+      <span class='ocrx_word' id='word_1_402' title='bbox 103 635 124 643; x_wconf 86'>cells</span>
+      <span class='ocrx_word' id='word_1_403' title='bbox 128 635 145 643; x_wconf 81'>that</span>
+      <span class='ocrx_word' id='word_1_404' title='bbox 149 637 163 643; x_wconf 95'>are</span>
+      <span class='ocrx_word' id='word_1_405' title='bbox 167 635 218 643; x_wconf 74'>transduced</span>
+      <span class='ocrx_word' id='word_1_406' title='bbox 221 638 232 643; x_wconf 89'>ex</span>
+      <span class='ocrx_word' id='word_1_407' title='bbox 236 638 255 643; x_wconf 78'>vivo</span>
+      <span class='ocrx_word' id='word_1_408' title='bbox 259 625 270 653; x_wconf 78'>for</span>
+      <span class='ocrx_word' id='word_1_409' title='bbox 274 635 293 643; x_wconf 52'>less</span>
+      <span class='ocrx_word' id='word_1_410' title='bbox 296 635 316 643; x_wconf 52'>than</span>
+      <span class='ocrx_word' id='word_1_411' title='bbox 320 635 325 643; x_wconf 96'>4</span>
+      <span class='ocrx_word' id='word_1_412' title='bbox 329 635 350 646; x_wconf 94'>days</span>
+      <span class='ocrx_word' id='word_1_413' title='bbox 354 635 365 643; x_wconf 94'>do</span>
+      <span class='ocrx_word' id='word_1_414' title='bbox 369 636 384 643; x_wconf 96'>not</span>
+      <span class='ocrx_word' id='word_1_415' title='bbox 387 637 420 646; x_wconf 95'>require</span>
+      <span class='ocrx_word' id='word_1_416' title='bbox 425 635 447 643; x_wconf 95'>RCL</span>
+      <span class='ocrx_word' id='word_1_417' title='bbox 451 636 482 646; x_wconf 85'>testing</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_photo' id='block_1_25' title="bbox 229 603 231 609"></div>
+   <div class='ocr_carea' id='block_1_26' title="bbox 51 664 171 674">
+    <p class='ocr_par' id='par_1_17' lang='eng' title="bbox 51 664 171 674">
+     <span class='ocr_line' id='line_1_38' title="bbox 51 664 171 674; baseline 0 -2; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_418' title='bbox 51 664 64 672; x_wconf 78'>7.5.</span>
+      <span class='ocrx_word' id='word_1_419' title='bbox 70 664 100 672; x_wconf 93'>Ability</span>
+      <span class='ocrx_word' id='word_1_420' title='bbox 106 666 115 672; x_wconf 65'>o</span>
+      <span class='ocrx_word' id='word_1_421' title='bbox 118 664 171 674; x_wconf 67'>Proliferate</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_27' title="bbox 50 693 545 738">
+    <p class='ocr_par' id='par_1_18' lang='eng' title="bbox 50 693 545 738">
+     <span class='ocr_line' id='line_1_39' title="bbox 64 693 545 704; baseline 0 -3; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_422' title='bbox 64 693 82 701; x_wconf 82'>‘The</span>
+      <span class='ocrx_word' id='word_1_423' title='bbox 87 693 138 701; x_wconf 90'>transduced</span>
+      <span class='ocrx_word' id='word_1_424' title='bbox 143 695 194 704; x_wconf 92'>monocytes</span>
+      <span class='ocrx_word' id='word_1_425' title='bbox 199 695 213 701; x_wconf 93'>are</span>
+      <span class='ocrx_word' id='word_1_426' title='bbox 218 694 275 704; x_wconf 71'>post-mitotic</span>
+      <span class='ocrx_word' id='word_1_427' title='bbox 280 693 301 701; x_wconf 71'>cells</span>
+      <span class='ocrx_word' id='word_1_428' title='bbox 306 693 322 701; x_wconf 91'>and</span>
+      <span class='ocrx_word' id='word_1_429' title='bbox 327 693 338 701; x_wconf 88'>do</span>
+      <span class='ocrx_word' id='word_1_430' title='bbox 343 694 358 701; x_wconf 88'>not</span>
+      <span class='ocrx_word' id='word_1_431' title='bbox 362 693 411 704; x_wconf 65'>proliferate.</span>
+      <span class='ocrx_word' id='word_1_432' title='bbox 419 693 428 701; x_wconf 93'>In</span>
+      <span class='ocrx_word' id='word_1_433' title='bbox 434 695 458 702; x_wconf 43'>vitro,</span>
+      <span class='ocrx_word' id='word_1_434' title='bbox 463 693 477 701; x_wconf 43'>the</span>
+      <span class='ocrx_word' id='word_1_435' title='bbox 482 693 545 701; x_wconf 46'>differentiated</span>
+     </span>
+     <span class='ocr_line' id='line_1_40' title="bbox 50 710 545 721; baseline 0 -3; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_436' title='bbox 50 710 66 718; x_wconf 81'>DC</span>
+      <span class='ocrx_word' id='word_1_437' title='bbox 70 712 106 718; x_wconf 82'>senesce</span>
+      <span class='ocrx_word' id='word_1_438' title='bbox 110 699 132 727; x_wconf 95'>after</span>
+      <span class='ocrx_word' id='word_1_439' title='bbox 139 699 154 727; x_wconf 95'>3-4</span>
+      <span class='ocrx_word' id='word_1_440' title='bbox 157 710 186 718; x_wconf 89'>weeks</span>
+      <span class='ocrx_word' id='word_1_441' title='bbox 190 710 207 718; x_wconf 89'>and</span>
+      <span class='ocrx_word' id='word_1_442' title='bbox 214 712 224 718; x_wconf 94'>we</span>
+      <span class='ocrx_word' id='word_1_443' title='bbox 229 710 250 718; x_wconf 96'>have</span>
+      <span class='ocrx_word' id='word_1_444' title='bbox 255 711 270 718; x_wconf 95'>not</span>
+      <span class='ocrx_word' id='word_1_445' title='bbox 274 710 316 718; x_wconf 95'>observed</span>
+      <span class='ocrx_word' id='word_1_446' title='bbox 320 712 337 721; x_wconf 95'>any</span>
+      <span class='ocrx_word' id='word_1_447' title='bbox 341 710 396 721; x_wconf 95'>malignancy</span>
+      <span class='ocrx_word' id='word_1_448' title='bbox 401 712 409 718; x_wconf 91'>in</span>
+      <span class='ocrx_word' id='word_1_449' title='bbox 414 712 436 718; x_wconf 91'>mice</span>
+      <span class='ocrx_word' id='word_1_450' title='bbox 442 710 501 718; x_wconf 90'>administered</span>
+      <span class='ocrx_word' id='word_1_451' title='bbox 506 712 518 718; x_wconf 87'>s.c.</span>
+      <span class='ocrx_word' id='word_1_452' title='bbox 525 710 545 718; x_wconf 96'>with</span>
+     </span>
+     <span class='ocr_line' id='line_1_41' title="bbox 78 727 528 738; baseline 0 -3; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_453' title='bbox 78 727 139 738; x_wconf 36'>ryopreserved</span>
+      <span class='ocrx_word' id='word_1_454' title='bbox 143 727 213 738; x_wconf 34'>SmyleDCpp6s</span>
+      <span class='ocrx_word' id='word_1_455' title='bbox 217 727 274 737; x_wconf 96'>(maintained</span>
+      <span class='ocrx_word' id='word_1_456' title='bbox 277 716 287 744; x_wconf 91'>in</span>
+      <span class='ocrx_word' id='word_1_457' title='bbox 290 727 342 735; x_wconf 94'>observation</span>
+      <span class='ocrx_word' id='word_1_458' title='bbox 353 729 362 735; x_wconf 96'>for</span>
+      <span class='ocrx_word' id='word_1_459' title='bbox 366 729 377 738; x_wconf 96'>up</span>
+      <span class='ocrx_word' id='word_1_460' title='bbox 381 728 389 735; x_wconf 96'>to</span>
+      <span class='ocrx_word' id='word_1_461' title='bbox 393 727 398 735; x_wconf 95'>9</span>
+      <span class='ocrx_word' id='word_1_462' title='bbox 402 727 437 735; x_wconf 90'>months</span>
+      <span class='ocrx_word' id='word_1_463' title='bbox 440 727 462 735; x_wconf 90'>after</span>
+      <span class='ocrx_word' id='word_1_464' title='bbox 465 727 528 735; x_wconf 43'>administratio</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_photo' id='block_1_28' title="bbox 50 729 286 735"></div>
+  </div>
+ </body>
+</html>

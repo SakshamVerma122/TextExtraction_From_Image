@@ -6,3 +6,5 @@ In this repository, I am using two approaches to extract text from images. The m
 2. **LayoutLMV3**: Another model used to acquire layout information about the text in the image.
 
 After obtaining the layout information, the text is extracted using PyTesseract.
+
+Please refer the documentation.pdf for more info
